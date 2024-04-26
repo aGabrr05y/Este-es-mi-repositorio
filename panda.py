@@ -1,4 +1,4 @@
 nombre = "Gabriel"
 apellido = "Ramirez"
-
-print(nombre + apellido)
+nombre_Completo = nombre + apellido
+print(nombre_Completo)
